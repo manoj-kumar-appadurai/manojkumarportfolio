@@ -44,7 +44,7 @@ const Footer = () => {
           classes="ml-3"
           type={ButtonTypes.WHITE}
           name="Let's Talk"
-          href="#"
+          href="https://wa.me/919003315708"
           otherProps={{
             target: "_blank",
             rel: "noreferrer",
