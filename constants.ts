@@ -77,7 +77,7 @@ export const PROJECTS: IProject[] = [
     description: "A modern payroll application with an integrated CMS, designed to simplify payroll management and streamline HR operations for businesses.ss",
     gradient: ["#631DD0", "#2871FA"],
     url: "https://zenropayroll.com/",
-    tech: ["figma", "gsap", "html", "css", "javascript", "jQuery", "bootstrap"],
+    tech: ["figma", "html", "css", "jQuery", "bootstrap"],
   },
   {
     name: "Farmaze",
@@ -86,7 +86,7 @@ export const PROJECTS: IProject[] = [
     description: "A tech-driven platform transforming the fresh produce supply chain by enhancing efficiency, sustainability, and accessibility for businesses and consumers.",
     gradient: ["#16A34A", "#4ade80"],
     url: "https://www.farmaze.com/",
-    tech: ["react", "AI"],
+    tech: ["react"],
   },
 
 ];
