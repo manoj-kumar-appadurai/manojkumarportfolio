@@ -92,7 +92,7 @@ export const PROJECTS: IProject[] = [
     name: "Zaviyo",
     image: "/projects/zaviyo.jpg",
     blurImage: "/projects/blur/zaviyo-blur.jpg",
-    description: "A responsive and modern eCommerce platform built as an assessment task. Zaviyo offers a clean UI for browsing deals, shopping online, and viewing cashback offers — completed within a 2-day deadline.",
+    description: "A sleek eCommerce website built as an assessment task, featuring cashback offers, deal banners, and a clean UI — completed in 2 days.",
     gradient: ["#7F00FF", "#E100FF"],
     url: "https://zaviyo.netlify.app/",
     tech: ["html", "css", "javascript", "jQuery", "bootstrap"],
