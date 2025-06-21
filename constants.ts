@@ -88,7 +88,15 @@ export const PROJECTS: IProject[] = [
     url: "https://www.farmaze.com/",
     tech: ["react"],
   },
-
+  {
+    name: "Zaviyo",
+    image: "/projects/zaviyo.jpg",
+    blurImage: "/projects/blur/zaviyo-blur.jpg",
+    description: "A responsive and modern eCommerce platform built as an assessment task. Zaviyo offers a clean UI for browsing deals, shopping online, and viewing cashback offers — completed within a 2-day deadline.",
+    gradient: ["#7F00FF", "#E100FF"],
+    url: "https://zaviyo.netlify.app/",
+    tech: ["html", "css", "javascript", "jQuery", "bootstrap"],
+  }
 ];
 
 export const SKILLS = {
