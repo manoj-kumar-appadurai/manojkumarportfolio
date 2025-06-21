@@ -86,7 +86,7 @@ export const PROJECTS: IProject[] = [
     description: "A tech-driven platform transforming the fresh produce supply chain by enhancing efficiency, sustainability, and accessibility for businesses and consumers.",
     gradient: ["#16A34A", "#4ade80"],
     url: "https://www.farmaze.com/",
-    tech: ["react"],
+    tech: ["react", "figma"],
   },
   {
     name: "Zaviyo",
